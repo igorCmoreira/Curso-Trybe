@@ -1,0 +1,1 @@
+Hoje a parte de exercicios foi voltada para a preparação do git e sincronização no GitHub.
