@@ -1,1 +1,1 @@
-Aqui estarão presentes os exercicios realizados durante a realização do curso da trybe
+Aqui estarão presentes os exercicios realizados durante o curso da trybe
