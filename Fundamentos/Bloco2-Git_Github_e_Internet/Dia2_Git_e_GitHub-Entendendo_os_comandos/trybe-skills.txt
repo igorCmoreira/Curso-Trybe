@@ -1,0 +1,7 @@
+O que eu vou aprender na Trybe neste bloco:
+
+- Unix
+- Bash
+- Git
+- HTML
+- CSS
