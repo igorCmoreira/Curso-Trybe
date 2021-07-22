@@ -1,0 +1,28 @@
+h1{
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+  }
+  #List_style{
+    background-color:lightgreen;
+  }
+  .txt_style{
+
+    background-color: lightseagreen;
+  }
+  p{
+    font-weight: 600;
+    font-size: 3em;
+  }
+  body{
+    font-size: 16px;
+  }
+  #color_1{
+    color: yellow;
+  }
+  #color_2{
+    color: red;
+  }
+  #color_3{
+    color: brown;
+  }
